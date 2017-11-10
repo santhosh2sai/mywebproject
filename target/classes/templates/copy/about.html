@@ -8,10 +8,13 @@
 <div th:replace="common/navbar :: common-navbar" />
 
 <div class="container">
-
-    <div class="jumbotron text-center">
-        <h1 th:text="#{index.h1.text}"></h1>
-        <p class="lead" th:text="#{index.p.lead}"></p>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="jumbotron">
+                <h1 class="text-center" th:text="#{copy.h1.text}"></h1>
+                <p class="lead" th:text="#{copy.p.lead}"></p>
+            </div>
+        </div>
     </div>
 
 </div>

@@ -1,3 +1,6 @@
 /Users/madhu/santhu-workspace/mywebproject/src/main/java/com/mywebproject/controller/web/controllers/IndexController.java
 /Users/madhu/santhu-workspace/mywebproject/src/main/java/com/mywebproject/MywebprojectApplication.java
 /Users/madhu/santhu-workspace/mywebproject/src/main/java/com/mywebproject/controller/HelloWorldController.java
+/Users/madhu/santhu-workspace/mywebproject/src/main/java/com/mywebproject/controller/web/i18n/I18NService.java
+/Users/madhu/santhu-workspace/mywebproject/src/main/java/com/mywebproject/controller/web/controllers/CopyController.java
+/Users/madhu/santhu-workspace/mywebproject/src/main/java/com/mywebproject/controller/config/I18NConfig.java
